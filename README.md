@@ -7,7 +7,7 @@ Designed to showcase chapters, summaries, takeaways, author information, and a m
 
 ## 🚀 Live Preview
 
-🔗 
+🔗 https://brightpath-tutor-lt2vj63wj-tsionawits-projects.vercel.app
 
 ---
 
